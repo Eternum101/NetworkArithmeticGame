@@ -134,7 +134,7 @@ namespace NetworkArithmeticGame
         {
             if ((HeadNode == null) && (CurrentNode == null) && (TailNode == null))
             {
-                // this firstNode in the list
+                // This is the first node in the list
                 HeadNode = node;
                 CurrentNode = node;
                 TailNode = node;

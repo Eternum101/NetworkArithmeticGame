@@ -66,10 +66,9 @@ namespace NetworkArithmeticGame
 
         public void Add(NodeProperties2 answerValue)
         {
-            //nonrecursive
             if (top == null)
             {
-                //the tree is empty
+                // Indicates the tree is empty
                 top = new Nodes.BinaryTreeNode(answerValue);
                 return;
             }
@@ -78,35 +77,35 @@ namespace NetworkArithmeticGame
 
             do
             {
-                //if the inserted value is less than current
+                // If the inserted value is less than the current value
                 if (answerValue.Answer < currentNode.value.Answer)
                 {
-                    //insert left
+                    // Insert left
                     if (currentNode.left == null)
                     {
-                        //end node
+                        // End node
                         currentNode.left = new BinaryTreeNode(answerValue);
                         insert = true;
                     }
                     else
                     {
-                        //move left
+                        // Move left
                         currentNode = currentNode.left;
                     }
 
-                    //if the inserted value is greeated than or equal to current
+                    // If the inserted value is greater than or equal to current
                     if (answerValue.Answer >= currentNode.value.Answer)
                     {
-                        //insert right
+                        // Insert right
                         if (currentNode.right == null)
                         {
-                            //end node
+                            // End node
                             currentNode.right = new Nodes.BinaryTreeNode(answerValue);
                             insert = true;
                         }
                         else
                         {
-                            //move right
+                            // Move right
                             currentNode = currentNode.right;
                         }
                     }
