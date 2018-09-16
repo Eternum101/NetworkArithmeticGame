@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkArithmeticGame", "NetworkArithmeticGame\NetworkArithmeticGame.csproj", "{0AC1136A-E022-4B62-9AD6-4EBE6936B9F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentForm", "StudentForm\StudentForm.csproj", "{ADDFE093-1CB7-4418-9A06-B95687653DDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AC1136A-E022-4B62-9AD6-4EBE6936B9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC1136A-E022-4B62-9AD6-4EBE6936B9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC1136A-E022-4B62-9AD6-4EBE6936B9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC1136A-E022-4B62-9AD6-4EBE6936B9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADDFE093-1CB7-4418-9A06-B95687653DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADDFE093-1CB7-4418-9A06-B95687653DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADDFE093-1CB7-4418-9A06-B95687653DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADDFE093-1CB7-4418-9A06-B95687653DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDDF2E23-826A-4E5F-9C86-08F0877EA816}
+	EndGlobalSection
+EndGlobal

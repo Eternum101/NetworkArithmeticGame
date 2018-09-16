@@ -1,0 +1,142 @@
+﻿////////////////////////////////////////////////////////////////////////////////////////////////////
+// file:	Nodes\Node.cs
+//
+// summary:	Implements the node class
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+/*
+ * Author: Brayden Cantrill 210160216 or 454657305
+ * Purpose: Creation of Nodes & Functionality for the Doubly Linked List in the Application
+ * Version Control: 1.0
+ * Date: 17/09/2018
+*/
+
+namespace NetworkArithmeticGame
+{
+    ////////////////////////////////////////////////////////////////////////////////////////////////////
+    /// <summary>   A node. </summary>
+    ///
+    /// <remarks>   Brayden, 15/09/2018. </remarks>
+    ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+    class Node
+    {
+        /// <summary>   my value. </summary>
+        int myValue; 
+
+        /// <summary>   The previous. </summary>
+        public Node previous;
+        /// <summary>   The next. </summary>
+        public Node next;
+
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+        /// <summary>   Constructor. </summary>
+        ///
+        /// <remarks>   Brayden, 15/09/2018. </remarks>
+        ///
+        /// <param name="aValue">   The value. </param>
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        public Node(int aValue)
+        {
+            myValue = aValue;
+        }
+
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+        /// <summary>   Gets the value. </summary>
+        ///
+        /// <remarks>   Brayden, 15/09/2018. </remarks>
+        ///
+        /// <returns>   The value. </returns>
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        public int getValue()
+        {
+            return this.myValue;
+        }
+
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+        /// <summary>   Sets my value. </summary>
+        ///
+        /// <remarks>   Brayden, 15/09/2018. </remarks>
+        ///
+        /// <param name="aValue">   The value. </param>
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        public void setMyValue(int aValue)
+        {
+            myValue = aValue;
+        }
+
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+        /// <summary>   Sets a next. </summary>
+        ///
+        /// <remarks>   Brayden, 15/09/2018. </remarks>
+        ///
+        /// <param name="aNode">    The node. </param>
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        public void setNext(Node aNode)
+        {
+            this.next = aNode;
+        }
+
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+        /// <summary>   Gets the next item. </summary>
+        ///
+        /// <remarks>   Brayden, 15/09/2018. </remarks>
+        ///
+        /// <returns>   The next. </returns>
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        public Node getNext()
+        {
+            return this.next;
+        }
+
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+        /// <summary>   Sets the previous. </summary>
+        ///
+        /// <remarks>   Brayden, 15/09/2018. </remarks>
+        ///
+        /// <param name="aNode">    The node. </param>
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        public void setPrevious(Node aNode)
+        {
+            this.previous = aNode;
+        }
+
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+        /// <summary>   Gets the previous item. </summary>
+        ///
+        /// <remarks>   Brayden, 15/09/2018. </remarks>
+        ///
+        /// <returns>   The previous. </returns>
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        public Node getPrevious()
+        {
+            return this.previous;
+        }
+
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+        /// <summary>   Gets the tostring. </summary>
+        ///
+        /// <remarks>   Brayden, 15/09/2018. </remarks>
+        ///
+        /// <returns>   A string. </returns>
+        ////////////////////////////////////////////////////////////////////////////////////////////////////
+
+        public string tostring()
+        {
+            return myValue.ToString();
+        }
+    }
+}
