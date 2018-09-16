@@ -337,15 +337,15 @@ namespace NetworkArithmeticGame
 
         public void BinaryTree()
         {
-            //if the tree is null
+            // Indicates if the tree is null
             if (binaryTree.top == null)
             {
-                //create new node equation at the top of the tree
+                // Creates a new node value at the top of the tree
                 binaryTree.top = new BinaryTreeNode(values);
             }
             else
             {
-                //otherwise add another equation to the tree
+                // Else adds another value to the tree
                 binaryTree.Add(values);
             }
             lstBinaryTree.Clear();
