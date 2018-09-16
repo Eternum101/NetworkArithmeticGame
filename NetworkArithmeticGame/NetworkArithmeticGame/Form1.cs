@@ -202,6 +202,7 @@ namespace NetworkArithmeticGame
                 sb.Append(value + nodeList.getCurrentNode().tostring());
             }
             lstLinkedList.Text = sb.ToString();
+            sb.Append("TAIL <-> ");
         }
 
         ////////////////////////////////////////////////////////////////////////////////////////////////////
