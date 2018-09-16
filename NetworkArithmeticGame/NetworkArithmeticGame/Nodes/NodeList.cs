@@ -204,18 +204,5 @@ namespace NetworkArithmeticGame
         ///
         /// <returns>   A Hashtable. </returns>
         ////////////////////////////////////////////////////////////////////////////////////////////////////
-
-        public Hashtable LinkListTable(NodeList node)
-        {
-            Hashtable LinkListTable = new Hashtable();
-            int counter = 1;
-
-            for (Node i = node.HeadNode; i.getNext() != null; i = i.getNext())
-            {
-                LinkListTable.Add(count.ToString(), i);
-                counter++;
-            }
-            return LinkListTable;
-        }
     }
 }
