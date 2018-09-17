@@ -24,3 +24,8 @@ C:\Users\2101560216\source\repos\NetworkArithmeticGame\StudentForm\obj\Debug\Stu
 C:\Users\2101560216\source\repos\NetworkArithmeticGame\StudentForm\obj\Debug\StudentForm.csproj.CopyComplete
 C:\Users\2101560216\source\repos\NetworkArithmeticGame\StudentForm\obj\Debug\StudentForm.exe
 C:\Users\2101560216\source\repos\NetworkArithmeticGame\StudentForm\obj\Debug\StudentForm.pdb
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\StudentForm\obj\Debug\StudentForm.csprojAssemblyReference.cache
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\StudentForm\obj\Debug\StudentForm.Form2.resources
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\StudentForm\obj\Debug\StudentForm.Properties.Resources.resources
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\StudentForm\obj\Debug\StudentForm.csproj.GenerateResource.cache
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\StudentForm\obj\Debug\StudentForm.csproj.CoreCompileInputs.cache

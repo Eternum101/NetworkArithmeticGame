@@ -24,3 +24,8 @@ C:\Users\Brayden\source\repos\NetworkArithmeticGame\NetworkArithmeticGame\obj\De
 C:\Users\2101560216\source\repos\NetworkArithmeticGame\NetworkArithmeticGame\bin\Debug\Newtonsoft.Json.dll
 C:\Users\2101560216\source\repos\NetworkArithmeticGame\NetworkArithmeticGame\bin\Debug\Newtonsoft.Json.xml
 C:\Users\2101560216\source\repos\NetworkArithmeticGame\NetworkArithmeticGame\obj\Debug\NetworkArithmeticGame.csproj.CopyComplete
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\obj\Debug\NetworkArithmeticGame.csprojAssemblyReference.cache
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\obj\Debug\NetworkArithmeticGame.Form1.resources
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\obj\Debug\NetworkArithmeticGame.Properties.Resources.resources
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\obj\Debug\NetworkArithmeticGame.csproj.GenerateResource.cache
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\obj\Debug\NetworkArithmeticGame.csproj.CoreCompileInputs.cache
