@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="StudentForm.ClientMain">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="StudentForm.ClientMain.ClientReceivedHandlerMain" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ClientMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="StudentForm.ClientMain.ClientDisconnectHandlerMain" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ClientMain.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABAAAABAAAAwAAAAAAAAAAAAAAAAAAAAAAAAhCAAAA=</HashCode>
+      <FileName>ClientMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StudentForm.ListenerMain" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAhAAAAAACAAEAAAAAAAAAAAAAAAAAAAIAgAABAAAAA=</HashCode>
+      <FileName>ListenerMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkArithmeticGame.Form1">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BgQBbAYgOiEAESgQkwjAiGA6IaAIAGyAIAchARDBCJI=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkArithmeticGame.BinaryTree">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIACAQCAAIAAAAAAEAAAAggAAAAQAAAAAACAAAAAAA=</HashCode>
+      <FileName>Nodes\BinaryTree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkArithmeticGame.Node" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAACAAAAIABAAAABEAAAACIAACAAIAAAA=</HashCode>
+      <FileName>Nodes\Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkArithmeticGame.NodeList">
+    <Position X="7.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAgAABAAAAEAFAQAQAAAIAAAAAAAAAABAFAIAIA=</HashCode>
+      <FileName>Nodes\NodeList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkArithmeticGame.NodeProperties">
+    <Position X="2.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAAAAAAIAAAAAAAAAAAAAAAAIAAgAAIAA=</HashCode>
+      <FileName>Nodes\NodeProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkArithmeticGame.Program">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkArithmeticGame.Nodes.BinaryTreeNode">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAIACAAAAAAAAAAgAA=</HashCode>
+      <FileName>Nodes\BinaryTreeNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkArithmeticGame.Nodes.NodeProperties2">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAICAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAIAA=</HashCode>
+      <FileName>Nodes\NodeProperties2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkArithmeticGame.Properties.Resources">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NetworkArithmeticGame.Properties.Settings">
+    <Position X="4" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
