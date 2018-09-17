@@ -29,3 +29,11 @@ C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\Networ
 C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\obj\Debug\NetworkArithmeticGame.Properties.Resources.resources
 C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\obj\Debug\NetworkArithmeticGame.csproj.GenerateResource.cache
 C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\obj\Debug\NetworkArithmeticGame.csproj.CoreCompileInputs.cache
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\bin\Debug\NetworkArithmeticGame.exe.config
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\bin\Debug\NetworkArithmeticGame.exe
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\bin\Debug\NetworkArithmeticGame.pdb
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\bin\Debug\Newtonsoft.Json.dll
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\bin\Debug\Newtonsoft.Json.xml
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\obj\Debug\NetworkArithmeticGame.csproj.CopyComplete
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\obj\Debug\NetworkArithmeticGame.exe
+C:\Users\2101560216\Documents\NetworkArithmeticGame\NetworkArithmeticGame\NetworkArithmeticGame\obj\Debug\NetworkArithmeticGame.pdb
